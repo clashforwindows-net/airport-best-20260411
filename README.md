@@ -356,6 +356,7 @@ A：HK/TW 延迟最低，JP 次之，按游戏服务器位置定。
 - **Clash 教程**：https://clashhub.net
 - **用户社区**：https://bbs.clashhub.net
 - **客户端下载**：https://clash-for-windows.net
+- **VPSVIP 官网**：https://vpsvip.net（VPS 推荐）
 
 ---
 
